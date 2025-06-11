@@ -1,5 +1,3 @@
-# Iptv-logo
-# Private IPTV Logo Pack
 
 This repository contains logos used in IPTV M3U playlists. These assets are used **for personal and educational purposes only** within a private community.
 
